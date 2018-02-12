@@ -1,0 +1,4 @@
+rootProject.name = 'beer-project'
+
+include 'client'
+include 'FullStackApp'

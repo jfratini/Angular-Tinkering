@@ -1,0 +1,2 @@
+ng serve
+ng build --env=prod
